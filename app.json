@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Sithum Kalhara"
+      "value": "Samflex"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -20,8 +20,8 @@
        },
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
-    "required" :false,
-    "value": "false"
+    "required" :true,
+    "value": "true"
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
